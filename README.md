@@ -31,11 +31,12 @@ This directory contains code and data to reproduce analyses presented in Lada et
 
 Maintainer: Jian Yen (jdl.yen@gmail.com)
 
-Updated: 21 February 2018
+Updated: 26 February 2018
 
 ## About
 There are two primary scripts for analyses:
 dendroband_model_code.R: contains full code to fit a Bayesian hierarchical model in Stan and summarise parameters.
 tree-size-projections.R: contains full code to project tree circumferences over multi-year climate sequences.
 
+Data are not currently available with these code files but will be made available on publication. 
 
